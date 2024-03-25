@@ -1,5 +1,5 @@
 
-![log](https://github.com/kaushalpapnai/kaushalpapnai/blob/master/standard%20(2).gif)
+![log](https://github.com/kaushalpapnai/kaushalpapnai/blob/master/standard%20(1).gif)
 <h1 align="center">Hi 👋, I'm Kaushal Papnai</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
